@@ -27,5 +27,7 @@ The parameters are fixed: `info` will provide the blockchain related information
 
 By using python, we allow developers to use almost all the native python syntax except the `import` and `class` keywords. Most of the built-in function are allowed, but we do not provide `open` and other risk functions. The python code would be convert into python bytecode, thus most of dynamic feature would be kept, like infinite integer and list, dict, set, tuple.
 
+Check out [https://docs.python.org/3.10/tutorial/index.html](https://docs.python.org/3.10/tutorial/index.html) if you are not familiar with python language.
+
 
 
