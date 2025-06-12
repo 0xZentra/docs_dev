@@ -12,9 +12,9 @@ A Zentra transaction customs CALLDATA talking to ETH RPC. It is in JSON format:
 
 **p** stands for the protocol, it should be **zen** for mainnet.&#x20;
 
-**f** stands for the function to call, it's a string.
+**f** stands for the function to call, it is string type.
 
-**a** stands for the arguments, it should be a list.
+**a** stands for the arguments, it is a list.
 
 
 

@@ -30,7 +30,3 @@
   * [call](api-calls/call.md)
   * [resolve](api-calls/resolve.md)
   * [has\_appstate](api-calls/has_appstate.md)
-
-## Tutorial
-
-* [Page 1](tutorial-1/page-1.md)
