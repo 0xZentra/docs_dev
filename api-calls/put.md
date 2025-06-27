@@ -1,6 +1,6 @@
 # put
 
-The put function provides the way to update global state.
+The `put` function provides the way to update global state.
 
 ```python
 def put(_owner, _asset, _var, _value, _key = None):

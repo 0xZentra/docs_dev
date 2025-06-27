@@ -28,5 +28,5 @@
   * [get](api-calls/get.md)
   * [put](api-calls/put.md)
   * [call](api-calls/call.md)
-  * [handle\_lookup](api-calls/handle_lookup.md)
   * [has\_appstate](api-calls/has_appstate.md)
+  * [handle\_lookup](api-calls/handle_lookup.md)
