@@ -1,6 +1,6 @@
 # Design Philosophy
 
-Zentra with Minus Theory makes the first upgradable blockchain ecosystem. Within Zentra, we have long term mission to build both DeFi and future Dapps.
+Zentra with Minus Theory makes the first upgradable blockchain ecosystem. Within Zentra, we have long term mission to build both DeFi and future Dapps. Users and developers could have a stable and sustainable blockchain environment towards higher TPS, cheaper cost and more decentralization.
 
 We could reuse the existing EVM concepts to build smart contract. However, we learn the experience from both Ethereum and Solana, and decide to step further.
 

@@ -8,5 +8,5 @@ Call **token\_create** function to provide the basic information like token full
 {"p": "zen", "f": "token_create", "a": ["USDC", "Token Full Name", 6]}
 ```
 
-
+This is similar to test on the [Zentra playground](https://playground.zentra.dev/) by invoking `token_create("USDC", "Mock USDC", 6)`.
 

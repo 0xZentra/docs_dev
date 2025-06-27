@@ -14,3 +14,7 @@ In testnet, we can send a transaction with CALLDATA, for example:
 {"p": "zen", "f": "asset_create", "a": ["USDC"]}
 ```
 
+This is similar to test on the [Zentra playground](https://playground.zentra.dev/) by invoking `asset_create("USDC")`.
+
+
+

@@ -1,6 +1,6 @@
 # Create Function
 
-Due to the scarce of the global space, we try to be very careful when creating new function.
+Due to the scarce of the global state, we try to be very careful when creating new function. Adding functions are to add new features to current blockchain ecosystem.
 
 However, on the playground everyone is free to create and test the function and make arbitrary change to the global state.
 

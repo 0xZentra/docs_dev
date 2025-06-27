@@ -1,2 +1,20 @@
-# resolve
+# handle\_lookup
+
+
+
+
+
+### Parameters
+
+
+
+
+
+### Example
+
+
+
+
+
+
 
