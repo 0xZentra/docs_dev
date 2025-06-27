@@ -5,6 +5,7 @@
   * [Asset and Handle](basic-concept/asset-and-handle.md)
   * [Function](basic-concept/function.md)
 * [Playground](playground.md)
+* [ZIP](zip.md)
 
 ## Tutorial
 
@@ -15,7 +16,6 @@
 * [Create Token](create-token.md)
 * [Create Trading Pair](create-trading-pair.md)
 * [Create Function](create-function.md)
-* [Deploy Function](deploy-function.md)
 
 ## Development
 
