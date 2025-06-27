@@ -5,7 +5,7 @@
   * [Asset and Handle](basic-concept/asset-and-handle.md)
   * [Function](basic-concept/function.md)
 * [Playground](playground.md)
-* [ZIP](zip.md)
+* [Zentra Improvement Proposals](zentra-improvement-proposals.md)
 
 ## Tutorial
 
