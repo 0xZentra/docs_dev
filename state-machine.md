@@ -46,10 +46,10 @@ def transfer(info, args):
     value = int(args['a'][2])
     assert value > 0
 
-    sender_balance = get(tick, 'balance', 0, addr)
+    sender_balance = get(tick, 'balance', 0, sender)
     assert sender_balance >= value
     sender_balance -= value
-    put(addr, tick, 'balance', sender_balance, addr)
+    put(sender, tick, 'balance', sender_balance, sender)
     receiver_balance = get(tick, 'balance', 0, receiver)
     receiver_balance += value
     put(receiver, tick, 'balance', receiver_balance, receiver)
