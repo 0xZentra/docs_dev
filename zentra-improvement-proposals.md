@@ -10,3 +10,7 @@ The proposal could be done in a more simplify and efficiency way. It would be go
 
 In Zentra, we combine the function deployment with ZIP process to form consensus before new dapps or features are official launched on Zentra. It would be helpful for the developers to attract more audience during the idea to engineering stage. It is good for users to stay in a safe environment and reducing the risk of getting hacked.
 
+Check and propose draft ZIP in the github issue page of zentra\_funcs repo:
+
+{% embed url="https://github.com/0xZentra/zentra_funcs/issues" %}
+
